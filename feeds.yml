@@ -1,0 +1,14 @@
+# AI News Sources
+# For a comprehensive list of 100+ AI news sources, see:
+# https://github.com/foorilla/allainews_sources
+
+# ── AI & Technology ──
+- https://www.wired.com/feed/tag/ai/latest/rss  # WIRED - Artificial Intelligence
+- https://openai.com/blog/rss.xml               # OpenAI Blog
+
+# ── General News ──
+- https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+- https://www.theguardian.com/world/rss
+- https://rss.dw.com/xml/rss-de-all
+- https://www.reutersagency.com/feed/
+- https://www.bbc.com/news/world/rss.xml 

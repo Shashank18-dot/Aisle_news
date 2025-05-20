@@ -1,0 +1,21 @@
+# ── core ──
+fastapi~=0.111
+uvicorn[standard]~=0.30
+qdrant-client~=1.8
+feedparser~=6.0
+python-dotenv
+sqlalchemy~=2.0
+psycopg2-binary~=2.9
+
+# ── embeddings ──
+sentence-transformers~=2.7
+
+# ── LLM providers (pick one) ──
+groq>=0.4           # OR together-sdk / openai
+
+# ── front-end ──
+gradio~=4.32
+
+# ── testing & lint ──
+pytest
+ruff 
